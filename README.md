@@ -1,4 +1,4 @@
-# Travis [![Build Status](https://travis-ci.org/SidduMirji/learn-travis.svg?branch=master)](https://travis-ci.org/SidduMirji/learn-travis)  [![Dependencies](https://david-dm.org/SidduMirji/learn-travis.png?theme=shields.io)](https://david-dm.org/SidduMirji/learn-travis) [![devDependency Status](https://david-dm.org/SidduMirji/learn-travis/dev-status.svg)](https://david-dm.org/SidduMirji/learn-travis#info=devDependencies)
+# Travis [![Build Status](https://travis-ci.org/SidduMirji/travisnode.svg?branch=master)](https://travis-ci.org/SidduMirji/travisnode)  [![Dependencies](https://david-dm.org/SidduMirji/travisnode.png?theme=shields.io)](https://david-dm.org/SidduMirji/travisnodes) [![devDependency Status](https://david-dm.org/SidduMirji/travisnode/dtravisnode.svg)](https://david-dm.org/SidduMirji/travisnode#info=devDependencies)
 
 
 Our ***quick guide*** to **Travis CI** (*Continuous Integration*) for ***complete beginners***
